@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+  }
+
+  
+  table {
+    width: 800px;
+    height: 800px;
+    border-collapse: collapse;
+    margin: auto;
+  }
+
+  td {
+    border: 8px solid black;
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .red-square {
+    background-color: red
+  }
+
+  .yellow-square {
+background-color: rgb(255, 230, 3)
+  }
+
+  .blue-square{
+    background-color: blue;
+  }
+
+  .black-square{
+    background-color: black;
+  }
